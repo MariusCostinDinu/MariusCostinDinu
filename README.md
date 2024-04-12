@@ -1,5 +1,10 @@
-### Hi there 👋
+Embark on a journey through the realms of creativity and technology with me. My latest Unity project, conceived during the exhilarating rush of a game jam aptly named "Gut-Wrenching," thrusts players into a visceral experience that challenges both their reflexes and intellect.
 
+As the pixels settle and the code finds its rhythm, my focus shifts to broader horizons. Amidst the bustling world of graphics programming, I find myself immersed in the intricate dance of OpenGL. With each line of code, I delve deeper into the intricacies of rendering, seeking to unlock its potential in ways both innovative and profound.
+
+Yet, the pursuit of mastery knows no bounds. In tandem with OpenGL, I now traverse the uncharted territories of GLSL and Vulkan, forging ahead into realms where performance meets artistry. Each shader script, each rendering pipeline, becomes a canvas upon which I paint the symphony of visual delight.
+
+Join me as I unravel the mysteries of graphics programming, weaving together pixels and polygons to create worlds yet unseen. The journey is arduous, but the rewards are boundless. Together, let us redefine the boundaries of possibility in the realm of interactive entertainment.
 <!--
 **MariusCostinDinu/MariusCostinDinu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
